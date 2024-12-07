@@ -65,5 +65,5 @@ RegisterNumber:24900898
 ![Screenshot (26)](https://github.com/user-attachments/assets/ad6e2243-42f8-42f1-b031-2ef435ef0779)
 **RESULTS**
 
- Thus the Flip flop designed and the truth tables is verified using Quartus software
+ Thus the Flip flop designed and the truth tables is verified using Quartus software.
 
